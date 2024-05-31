@@ -32,13 +32,11 @@ Taipei YouBike Finder 是一個 Android 應用，用於查詢台北市 YouBike �
 
 主界面顯示所有 YouBike 站點的列表：
 
-![螢幕擷取畫面 2024-06-01 030258](https://hackmd.io/_uploads/SkilCqv4A.png)
-
+![主畫面](screenshots/main_screen.png)
 
 點選某個站點顯示詳細資訊：
 
-![螢幕擷取畫面 2024-06-01 030321](https://hackmd.io/_uploads/By8W09PNA.png)
-
+![詳細資料畫面](screenshots/detail_screen.png)
 
 ## 文件結構
 
