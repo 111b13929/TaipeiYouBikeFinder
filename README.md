@@ -19,8 +19,7 @@ Taipei YouBike Finder 是一個 Android 應用，用於查詢台北市 YouBike �
 1. 複製此專案到本地：
 
     ```sh
-    git clone https://github.com/111b13929/TaipeiYouBikeFinder
-    .git
+    git clone https://github.com/111b13929/TaipeiYouBikeFinder.git
     ```
 
 2. 開啟 Android Studio，並選擇「Open an existing Android Studio project」，導入此專案。
